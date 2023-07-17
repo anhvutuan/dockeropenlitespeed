@@ -1,0 +1,2 @@
+# dockeropenlitespeed
+script automatic install
